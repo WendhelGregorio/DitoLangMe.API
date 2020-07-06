@@ -1,0 +1,9 @@
+C:\Users\VGD 14\source\repos\BSIS301.DitoLangMe.API\BSIS301.DitoLangMe.DataTransferObjects\bin\Debug\netcoreapp2.1\BSIS301.DitoLangMe.DataTransferObjects.deps.json
+C:\Users\VGD 14\source\repos\BSIS301.DitoLangMe.API\BSIS301.DitoLangMe.DataTransferObjects\bin\Debug\netcoreapp2.1\BSIS301.DitoLangMe.DataTransferObjects.dll
+C:\Users\VGD 14\source\repos\BSIS301.DitoLangMe.API\BSIS301.DitoLangMe.DataTransferObjects\bin\Debug\netcoreapp2.1\BSIS301.DitoLangMe.DataTransferObjects.pdb
+C:\Users\VGD 14\source\repos\BSIS301.DitoLangMe.API\BSIS301.DitoLangMe.DataTransferObjects\obj\Debug\netcoreapp2.1\BSIS301.DitoLangMe.DataTransferObjects.csprojAssemblyReference.cache
+C:\Users\VGD 14\source\repos\BSIS301.DitoLangMe.API\BSIS301.DitoLangMe.DataTransferObjects\obj\Debug\netcoreapp2.1\BSIS301.DitoLangMe.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\VGD 14\source\repos\BSIS301.DitoLangMe.API\BSIS301.DitoLangMe.DataTransferObjects\obj\Debug\netcoreapp2.1\BSIS301.DitoLangMe.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\VGD 14\source\repos\BSIS301.DitoLangMe.API\BSIS301.DitoLangMe.DataTransferObjects\obj\Debug\netcoreapp2.1\BSIS301.DitoLangMe.DataTransferObjects.AssemblyInfo.cs
+C:\Users\VGD 14\source\repos\BSIS301.DitoLangMe.API\BSIS301.DitoLangMe.DataTransferObjects\obj\Debug\netcoreapp2.1\BSIS301.DitoLangMe.DataTransferObjects.dll
+C:\Users\VGD 14\source\repos\BSIS301.DitoLangMe.API\BSIS301.DitoLangMe.DataTransferObjects\obj\Debug\netcoreapp2.1\BSIS301.DitoLangMe.DataTransferObjects.pdb
